@@ -1,0 +1,10 @@
+^E:\GRAPHICS\GRAPHICS\TOOLS\GLM\TEST\CORE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Graphics/Graphics/Tools/glm -BE:/Graphics/Graphics/Tools/glm_compile --check-stamp-file E:/Graphics/Graphics/Tools/glm_compile/test/core/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

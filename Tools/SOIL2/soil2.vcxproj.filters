@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\image_DXT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\image_helper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\SOIL2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\wfETC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\common\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\pkm_helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\pvr_helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stb_image_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_DDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_DDS_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_ext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_ext_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pkm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pkm_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pvr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pvr_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\wfETC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Graphics\Graphics\Tools\SOIL2-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{00DF7570-A08D-3B8F-BFA7-7C7FACF9CED4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F251C503-9D26-31E9-88E1-26F6A3524072}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^E:\GRAPHICS\GRAPHICS\TOOLS\SOIL2\CMAKEFILES\DA8FEF566DEC7FA28FEDDE1A1779E8F8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Graphics/Graphics/Tools/SOIL2-master -BE:/Graphics/Graphics/Tools/SOIL2 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Graphics/Graphics/Tools/SOIL2/soil2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

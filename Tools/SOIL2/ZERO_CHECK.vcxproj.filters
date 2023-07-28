@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Graphics\Graphics\Tools\SOIL2\CMakeFiles\da8fef566dec7fa28fedde1a1779e8f8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Graphics\Graphics\Tools\SOIL2-master\cmake\soil2-config.cmake.in">
+      <Filter>Buildsystem Input Files\cmake</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{163F54B4-E85F-3BA4-924B-4A68E10909C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{00DF7570-A08D-3B8F-BFA7-7C7FACF9CED4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake">
+      <UniqueIdentifier>{2EA7B2A9-FDBD-315C-9B50-463A03127102}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

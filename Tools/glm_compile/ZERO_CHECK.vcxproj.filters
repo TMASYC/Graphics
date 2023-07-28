@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Graphics\Graphics\Tools\glm_compile\CMakeFiles\06a95793d212f82246a497052ffea9d5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Graphics\Graphics\Tools\glm\glm\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\glm</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\bug\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\bug</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\core\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\core</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\ext\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\ext</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\gtc\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\gtc</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\gtx\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\gtx</Filter>
+    </None>
+    <None Include="E:\Graphics\Graphics\Tools\glm\test\perf\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\perf</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2CBCA8A1-2054-3D07-B68F-144DF08B8825}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\glm">
+      <UniqueIdentifier>{245F254B-AC3F-32CC-90A5-EBD3F71C00FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test">
+      <UniqueIdentifier>{ABFD54E0-8762-3240-91CC-8257D092FCCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\bug">
+      <UniqueIdentifier>{AE3FB29A-EFA6-35B5-96B9-5E247355921C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\core">
+      <UniqueIdentifier>{9FEB7B62-32CB-3E5E-87A5-2C69EB405100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\ext">
+      <UniqueIdentifier>{6C72271B-0DC9-33BB-9AB8-1E54A1BAFEA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\gtc">
+      <UniqueIdentifier>{4DC22D86-FB3E-3548-A660-C572FFDC0673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\gtx">
+      <UniqueIdentifier>{B6395069-5C53-34DA-98B5-3B2890BB08AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\perf">
+      <UniqueIdentifier>{3AB12077-CE51-3115-9460-7A80A10EC614}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

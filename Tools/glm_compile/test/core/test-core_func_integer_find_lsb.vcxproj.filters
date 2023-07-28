@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Graphics\Graphics\Tools\glm\test\core\core_func_integer_find_lsb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Graphics\Graphics\Tools\glm\test\core\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{28B13856-489E-3513-8344-7A5D828350BB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

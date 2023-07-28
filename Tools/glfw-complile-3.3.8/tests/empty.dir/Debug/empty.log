@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/Graphics/Graphics/Tools/glfw-3.3.8/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  glad_gl.c
+  正在生成代码...
+  empty.vcxproj -> E:\Graphics\Graphics\Tools\glfw-complile-3.3.8\tests\Debug\empty.exe

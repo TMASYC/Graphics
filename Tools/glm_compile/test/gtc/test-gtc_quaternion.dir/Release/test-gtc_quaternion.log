@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/Graphics/Graphics/Tools/glm/test/gtc/CMakeLists.txt
+  gtc_quaternion.cpp
+E:\Graphics\Graphics\Tools\glm\test\gtc\gtc_quaternion.cpp(1,1): error C2220: 以下警告被视为错误
+E:\Graphics\Graphics\Tools\glm\test\gtc\gtc_quaternion.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失

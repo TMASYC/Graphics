@@ -1,0 +1,26 @@
+﻿  Building Custom Rule E:/Graphics/Graphics/Tools/SOIL2-master/CMakeLists.txt
+  image_DXT.c
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\image_DXT.c(92,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  image_helper.c
+  SOIL2.c
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_DDS_c.h(46,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_DDS_c.h(321,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_DDS_c.h(570,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pvr_c.h(31,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pvr_c.h(150,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pvr_c.h(981,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pkm_c.h(46,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pkm_c.h(120,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_pkm_c.h(200,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_ext_c.h(56,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_qoi_c.h(19,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_qoi_c.h(97,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stbi_qoi_c.h(230,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\stb_image_write.h(781,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\SOIL2.c(2622,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\SOIL2.c(2939,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Graphics\Graphics\Tools\SOIL2-master\src\SOIL2\SOIL2.c(3076,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  wfETC.c
+  正在生成代码...
+  common.cpp
+  soil2.vcxproj -> E:\Graphics\Graphics\Tools\SOIL2\Release\soil2.lib
